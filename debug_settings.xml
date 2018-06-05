@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="gb2312" ?>   
+ <note year="55" date="33" month="22">  
+  <id test="55">5000</id>   
+  <password>F1-D0-18-00</password>   
+</note>  
+ <note year="21" date="23" month="45">  
+  <id>5240</id>   
+  <password>F2-D0-18-00</password>   
+</note>  
+ <note year="31" date="33" month="32">  
+  <id>5340</id>   
+  <password>F3-D0-18-00</password>   
+</note>  
+ <note year="42" date="45" month="47">  
+  <id>5405</id>   
+  <password>F4-D0-18-00</password>   
+</note>  
+ <note year="55" date="53" month="52">  
+  <id>5500</id>   
+  <password>F5-D0-18-00</password>   
+</note>  
+ <note year="65" date="63" month="62">  
+  <id>5800</id>   
+  <password>F6-D0-18-00</password>   
+</note>  
